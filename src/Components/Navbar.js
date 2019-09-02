@@ -21,9 +21,6 @@ export default class Navbar extends Component {
     }
   }
 
-  
-
-
     scrollToTop = () => {
       scroll.scrollToTop();
     };
